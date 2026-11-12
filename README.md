@@ -1,4 +1,3 @@
-
 # GIWU AI Quantum Backend
 
 A high-performance, modular Rust backend built with **Axum** and the **Rig** framework, designed to power the GIWU AI South African Authenticity & Cyber Fraud Inspection Engine.
@@ -7,7 +6,7 @@ A high-performance, modular Rust backend built with **Axum** and the **Rig** fra
 
 ## 🚀 Overview
 
-The GIWU AI backend replaces legacy PHP request blocks with a lightning-fast Rust microservice. It handles real-time text analysis, image-based scam and fake tender detection, and catalog reference comparisons using specialized AI agents powered by Google Gemini.
+The GIWU AI backend is a lightning-fast Rust microservice handling real-time text analysis, image-based scam/tender inspection, and catalog reference comparisons using specialized AI agents powered by Google Gemini.
 
 ---
 
